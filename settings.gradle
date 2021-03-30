@@ -1,0 +1,3 @@
+rootProject.name = 'spring-boot-multi-project-example'
+include 'common','web-example','aop-example','jpa-example'
+
